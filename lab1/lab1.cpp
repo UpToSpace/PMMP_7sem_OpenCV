@@ -20,7 +20,7 @@ int main()
 {
     // любое изображение с диска;
 
-    string filename = "D:\\University\\PMMP\\lab1\\bunnies.jpg";
+    string filename = "D:\\University\\PMMP\\labs\\lab1\\bunnies.jpg";
     string winname = "mywinname";
 
     Mat imr = imread(filename);
